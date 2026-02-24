@@ -8,24 +8,12 @@ relative_links:
 
 include:
   - index.md
-  - Personal.md
-  - Meditations_on_the_PCT.md
-  - Getting_Under_the_Skin.md
-  - Chrysalis.md
+
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 navigation:
   - name: Academic
     link: ./index.html
-  - name: Personal
-    link: ./Personal.html
-    sublist:
-    - name: Meditations on the PCT
-      link: ./Meditations_on_the_PCT.html
-    - name: Chrysalis
-      link: ./Chrysalis.html
-    - name: Getting Under the Skin
-      link: ./Getting_Under_the_Skin.html
 
 title: Adrienne Ren’s homepage
